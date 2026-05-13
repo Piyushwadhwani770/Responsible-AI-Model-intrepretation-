@@ -228,12 +228,4 @@ Feature importance analysis
 SHAP explainability
 Bias checking
 Responsible AI recommendations
-15. Final Submission Tips
-Keep notebook clean and organized.
-Add proper headings.
-Use screenshots of outputs.
-Upload code to GitHub.
-Include README file.
-Use simple explanations so it looks natural and human-written.
 
-This project is beginner-friendly, practical, and suitable for internship task submission.
